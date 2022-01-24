@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.raddox7_19104027.modul8">
-
-    <uses-permission android:name="android.permission.RECEIVE_SMS" />
-    <uses-permission android:name="android.permission.READ_SMS" />
+    package="com.raddox7_19104027.modul9">
 
     <application
         android:allowBackup="true"
@@ -11,20 +8,9 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Modul8">
-        <activity android:name="com.raddox7_19104027.Modul8.activity_sms_receiver"
-            android:theme="@style/SmsReceiverTheme"></activity>
-
-        <receiver
-            android:name="com.raddox7_19104027.Modul8.SmsReceiver"
-            android:enabled="true"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
-            </intent-filter>
-        </receiver>
-
-        <activity android:name="com.raddox7_19104027.Modul8.MainActivity">
+        android:theme="@style/Theme.Modul9">
+        <activity android:name="com.raddox7_19104027.Modul9.MainActivity"></activity>
+        <activity android:name="com.raddox7_19104027.Modul9.SettingPreferenceActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
