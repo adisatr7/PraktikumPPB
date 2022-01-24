@@ -5,7 +5,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import coil.transform.CircleCropTransformation
-import com.Zein_19104006.Modul6.databinding.ItemListBinding
+import com.raddox7_19104027.Modul6.databinding.ItemListBinding
 import java.util.*
 
 class MainAdapter(

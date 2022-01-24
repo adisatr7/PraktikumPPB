@@ -3,7 +3,7 @@ package com.raddox7_19104027.Modul6
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.Zein_19104006.Modul6.databinding.ActivityMainBinding
+import com.raddox7_19104027.Modul6.databinding.ActivityMainBinding
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
