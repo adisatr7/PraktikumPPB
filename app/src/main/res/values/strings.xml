@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PraktikumPPB</string>
+    <string name="app_name">My First App</string>
+    <string name="hello">Hola, como esta</string>
 </resources>
