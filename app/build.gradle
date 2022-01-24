@@ -7,8 +7,8 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "id.naseh_19104003.myfirstapp"
-        minSdk 19
+        applicationId "com.naseh_19104003.helloittelkompurwokerto"
+        minSdk 21
         targetSdk 31
         versionCode 1
         versionName "1.0"

@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">My First App</string>
-    <string name="hello">Hola, como esta</string>
+    <string name="app_name">Hello IT Telkom Purwokerto</string>
+    <string name="lbl_name">Nama Mahasiswa</string>
+    <string name="my_name">Satria Adi Nugraha</string>
+    <string name="lbl_nim">NIM Mahasiswa</string>
+    <string name="my_nim">19104027</string>
+    <string name="ganti_halaman">Ganti Halaman</string>
+
 </resources>
